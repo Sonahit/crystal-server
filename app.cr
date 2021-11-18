@@ -1,0 +1,1 @@
+puts "Crystal hello world"
